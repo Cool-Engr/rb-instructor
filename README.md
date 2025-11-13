@@ -107,37 +107,3 @@ user.age
 
 [Installing Instructor](installation.md) is a breeze. 
 
-## Contributing
-
-If you want to help out, checkout some of the issues marked as `good-first-issue` or `help-wanted`. Found [here](https://github.com/instructor-ai/instructor-js/labels/good%20first%20issue). They could be anything from code improvements, a guest blog post, or a new cook book.
-
-Checkout the [contribution guide]() for details on how to set things up, testing, changesets and guidelines.
-
-## License
-
-This project is licensed under the terms of the MIT License.
-
-## TODO
-- [ ] Add patch
-  - [ ] Mode.FUNCTIONS
-  - [ ] Mode.TOOLS
-  - [ ] Mode.MD_JSON
-  - [ ] Mode.JSON
-- [ ] Add response_model
-- [ ] Support async
-- [ ] Support stream=True, Partial[T] and iterable[T]
-- [ ] Support Streaming
-- [ ] Optional/Maybe types
-- [ ] Add Tutorials, include in docs
-    - [ ] Text Classification
-    - [ ] Search Queries
-    - [ ] Query Decomposition
-    - [ ] Citations
-    - [ ] Knowledge Graph
-    - [ ] Self Critique
-    - [ ] Image Extracting Tables
-    - [ ] Moderation
-    - [ ] Entity Resolution
-    - [ ] Action Item and Dependency Mapping
-- [ ] Logging for Distillation / Finetuning
-- [ ] Add `llm_validator`
