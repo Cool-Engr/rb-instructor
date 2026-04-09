@@ -10,12 +10,12 @@ pr_review:
     - "There should no secrets or credentials in the code"
 
   # users can customize their own behavior
-  user_overrides:
-    # @hbrooks has disabled auto-summary and added a custom rule
-    - usernames: ["hbrooks"]
-      auto_summarize_pr: false
-      rules:
-        - "Code should be DRY (Don't Repeat Yourself)"
+  # user_overrides:
+  #   # @hbrooks has disabled auto-summary and added a custom rule
+  #   - usernames: ["hbrooks"]
+  #     auto_summarize_pr: false
+  #     rules:
+  #       - "Code should be DRY (Don't Repeat Yourself)"
 
 
 # Below is an example of how to configure Ellipsis to build and run your repo.
