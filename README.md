@@ -4,8 +4,6 @@ _Structured extraction in Ruby, powered by llms, designed for simplicity, transp
 
 ---
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/jxnlco?style=social)](https://twitter.com/jxnlco)
-[![Twitter Follow](https://img.shields.io/twitter/follow/sbayona?style=social)](https://twitter.com/sbayona)
 [![Documentation](https://img.shields.io/badge/docs-available-brightgreen)](https://jxnl.github.io/instructor-rb)
 [![GitHub issues](https://img.shields.io/github/issues/instructor-ai/instructor-rb.svg)](https://github.com/instructor-ai/instructor-rb/issues)
 [![Discord](https://img.shields.io/discord/1192334452110659664?label=discord)](https://discord.gg/CV8sPM5k5Y)
